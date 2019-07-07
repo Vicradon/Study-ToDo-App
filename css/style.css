@@ -1,0 +1,45 @@
+:root {
+  --primary:#3ca58ee3;
+  --secondary:#2f8a76;
+}
+
+nav {
+  background: var(--primary);
+  border-bottom: 2px solid var(--secondary);
+}
+
+nav a {
+  text-transform: uppercase;
+}
+.sidenav-trigger {
+  color: #fff;
+  cursor: pointer;
+}
+.check {
+  margin-right: 20px;
+  cursor: pointer;
+  color: #27f6c9;
+}
+.delete {
+  cursor: pointer;
+  color: #f07171;
+}
+.enter-btn {
+  background-color: #3ca58ee3;
+}
+#message {
+  height: 10vh;
+}
+.about, .contact {
+  color: #2f8a76;
+}
+.completed {
+  margin-top: 20vh;
+}
+.strike_through {
+  text-decoration: line-through;
+}
+
+.navi {
+  margin-bottom: 20px;
+}
