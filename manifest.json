@@ -1,0 +1,14 @@
+{
+  "name":"Study ToDo",
+  "short_name":"S_todo",
+  "start-url":"/index.html",
+  "display":"standalone",
+  "backgrounf_color":"#8bd8c7",
+  "theme_color":"#fff",
+  "orientation":"portrait-primary",
+  "icons":[
+    {
+      "src":"##"
+    }
+  ]
+}
